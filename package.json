@@ -1,5 +1,5 @@
 {
-  "name": "backend-api-solid-tdd",
+  "name": "api-backend-solid-tdd",
   "version": "1.0.0",
   "description": "API utilizando SOLID e TDD",
   "main": "index.js",
